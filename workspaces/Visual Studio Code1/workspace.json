@@ -1,7 +1,7 @@
 {
     "description": "TEST.",
     "docker_registry": "https://index.docker.io/v1/",
-    "image_src": "Visual.png",
+    "image_src": "vs-code.png",
     "name": "kasmweb/vs-code:develop",
     "categories": [
       "Development"
